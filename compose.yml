@@ -1,6 +1,5 @@
 services:
   fuxa:
-    //image: frangoteam/fuxa:latest
     image: xingjl86/fuxa:latest
     restart: unless-stopped
     volumes:
